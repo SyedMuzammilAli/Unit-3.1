@@ -1,0 +1,17 @@
+{
+  "name": "unit-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-stormpath": "^4.0.0",
+    "mongoose": "^7.3.0",
+    "morgan": "^1.10.0"
+  }
+}
